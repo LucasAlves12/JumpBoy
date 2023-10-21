@@ -36,5 +36,8 @@ Espero que você se divirta jogando o Jumpboy tanto quanto eu me diverti criando
 ## Créditos 
 
 Gostaria de expressar minha gratidão aos seguintes recursos, que foram uma grande inspiração para este projeto:
+
 [USINAINFO](https://www.usinainfo.com.br/blog/jogos-com-arduino-genius-snake-e-jump-boy/)
 [Canal IdeasTV](https://www.youtube.com/watch?v=LMWp1eWxj08&t=176s)
+
+Embora este projeto seja a minha versão do jogo, eu não teria sido capaz de realizá-lo sem a ajuda desses incríveis recursos. Muito obrigado!
